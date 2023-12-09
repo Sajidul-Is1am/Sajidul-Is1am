@@ -17,6 +17,7 @@ Specializing in front-end magic, I turn ideas into intuitive interfaces.
 - AutoHub: Transforming brands into experiences.
 
 ### 🌈 **Versatility:**
+
 A tech explorer, always ready for new challenges.
 
 ### 🚀 **Aspirations:**
@@ -27,11 +28,10 @@ Infusing passion into pixels, leaving a mark in the world of front-end wonders.
 
 Striving to be a senior MERN Stack developer, overcoming the final year of my CSE diploma, and aiming to complete BSE for a comprehensive engineering journey.
 
-###  🌐  **Social Link:**
+### 🌐 **Social Link:**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsajid466478@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajidul-islam-9842b72a3/)
-
 
 ### 💼 **Skills:**
 
@@ -43,8 +43,8 @@ Striving to be a senior MERN Stack developer, overcoming the final year of my CS
 
 ### 📊 **GitHub Status:**
 
-<p style="text-align: center">
+<div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sajidul-Is1am&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
-</p>
+</div>
