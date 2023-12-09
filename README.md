@@ -18,6 +18,7 @@ Specializing in front-end magic, I turn ideas into intuitive interfaces.
 
 ### 🌈 **Versatility:** A tech explorer, always ready for new challenges.
 
+
 ### 🌐 **Future Goal:**
 
 Striving to be a senior MERN Stack developer, overcoming the final year of my CSE diploma, and aiming to complete BSE for a comprehensive engineering journey.
@@ -29,13 +30,15 @@ Striving to be a senior MERN Stack developer, overcoming the final year of my CS
 
 ### 💼 **Skills:**
 
-<p>
+<p align='center'>
 
-[![My Skills](https://skillicons.dev/icons?i=js,css,tailwind,react,nodejs,express,mongodb,html,figma,firebase,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,css,tailwind,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,mongodb,html,figma,firebase,)](https://skillicons.dev)
 
 </p>
 
 ### 📊 **GitHub Status:**
+
 
 <div align="center">
 
