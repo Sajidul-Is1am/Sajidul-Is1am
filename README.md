@@ -35,6 +35,7 @@ Striving to be a senior MERN Stack developer, overcoming the final year of my CS
 [![My Skills](https://skillicons.dev/icons?i=js,css,tailwind,bootstrap,react)](https://skillicons.dev)
 
 </div>
+
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,html,firebase,)](https://skillicons.dev)
