@@ -22,7 +22,7 @@ Hi, I'm Sajidul Islam, a final-year CSE diploma student, weaving digital dreams 
 
 💼 **Skills:**
 
-<p>
+<p style="text-align: center">
 
 [![My Skills](https://skillicons.dev/icons?i=js,css,tailwind,react,nodejs,express,mongodb,html,figma,firebase,)](https://skillicons.dev)
 </p>
