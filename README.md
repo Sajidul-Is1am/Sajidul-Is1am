@@ -38,13 +38,13 @@ Striving to be a senior MERN Stack developer, overcoming the final year of my CS
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,html,firebase,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,html,firebase,github)](https://skillicons.dev)
 
 </div>
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma)](https://skillicons.dev)
 
 </div>
 
