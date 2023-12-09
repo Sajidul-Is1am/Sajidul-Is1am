@@ -30,12 +30,22 @@ Striving to be a senior MERN Stack developer, overcoming the final year of my CS
 
 ### 💼 **Skills:**
 
-<div align='center'>
+<p align='center'>
 
-[![My Skills](https://skillicons.dev/icons?i=js,css,tailwind,react,nodejs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=express,mongodb,html,figma,firebase,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,css,tailwind,bootstrap,react)](https://skillicons.dev)
 
-</div>
+</p>
+<p align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,html,firebase,)](https://skillicons.dev)
+
+</p>
+
+<p align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,figma)](https://skillicons.dev)
+
+</p>
 
 ### 📊 **GitHub Status:**
 
@@ -45,3 +55,4 @@ Striving to be a senior MERN Stack developer, overcoming the final year of my CS
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sajidul-Is1am&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+
