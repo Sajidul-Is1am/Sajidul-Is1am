@@ -1,4 +1,3 @@
-
 ![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Sajidul-Is1am/Sajidul-Is1am/main/SajidUl.png "San Juan Mountains")
 
 **🌺 About Me**
@@ -27,3 +26,7 @@ Hi, I'm Sajidul Islam, a final-year CSE diploma student, weaving digital dreams 
 
 [![My Skills](https://skillicons.dev/icons?i=js,css,tailwind,react,nodejs,express,mongodb,html,figma,firebase,)](https://skillicons.dev)
 </p>
+
+📊 **GitHub Status:**
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sajidul-Is1am&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
