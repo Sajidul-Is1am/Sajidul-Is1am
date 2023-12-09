@@ -1,32 +1,49 @@
 ![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Sajidul-Is1am/Sajidul-Is1am/main/SajidUl.png "San Juan Mountains")
 
-**🌺 About Me**
+### **🌺 About Me**
 
 Hi, I'm Sajidul Islam, a final-year CSE diploma student, weaving digital dreams in the realm of front-end enchantment. 🚀✨
 
-🌟 **Crafting Experiences:** Specializing in front-end magic, I turn ideas into intuitive interfaces.
+### 🌟 **Crafting Experiences:**
+
+Specializing in front-end magic, I turn ideas into intuitive interfaces.
 
 💻 **Tech Stack:** JavaScript, React.js, Tailwind CSS, DailSUI, and adept in CRUD operations using Node.js, Express, and MongoDB. Crafting seamless digital experiences is my passion. 🚀
 
-🔍 **Projects:**
+### 🔍 **Projects:**
 
 - FlexSync: Sculpting digital workouts.
-- EduTools: Igniting learning through innovation.
-- Cardify: Transforming brands into experiences.
+- EduAct: Igniting learning through innovation.
+- AutoHub: Transforming brands into experiences.
 
-🌈 **Versatility:** A tech explorer, always ready for new challenges.
+### 🌈 **Versatility:** A tech explorer, always ready for new challenges.
 
-🚀 **Aspirations:** Infusing passion into pixels, leaving a mark in the world of front-end wonders.
+### 🚀 **Aspirations:**
 
-🌐 **Future Goal:** Striving to be a senior MERN Stack developer, overcoming the final year of my CSE diploma, and aiming to complete BSE for a comprehensive engineering journey.
+Infusing passion into pixels, leaving a mark in the world of front-end wonders.
 
-💼 **Skills:**
+### 🌐 **Future Goal:**
+
+Striving to be a senior MERN Stack developer, overcoming the final year of my CSE diploma, and aiming to complete BSE for a comprehensive engineering journey.
+
+###  🌐  **Social Link:**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsajid466478@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajidul-islam-9842b72a3/)
+
+
+### 💼 **Skills:**
+
+<p>
+
+[![My Skills](https://skillicons.dev/icons?i=js,css,tailwind,react,nodejs,express,mongodb,html,figma,firebase,)](https://skillicons.dev)
+
+</p>
+
+### 📊 **GitHub Status:**
 
 <p style="text-align: center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,css,tailwind,react,nodejs,express,mongodb,html,figma,firebase,)](https://skillicons.dev)
-</p>
-
-📊 **GitHub Status:**
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sajidul-Is1am&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+
+</p>
