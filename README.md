@@ -16,13 +16,7 @@ Specializing in front-end magic, I turn ideas into intuitive interfaces.
 - EduAct: Igniting learning through innovation.
 - AutoHub: Transforming brands into experiences.
 
-### 🌈 **Versatility:**
-
-A tech explorer, always ready for new challenges.
-
-### 🚀 **Aspirations:**
-
-Infusing passion into pixels, leaving a mark in the world of front-end wonders.
+### 🌈 **Versatility:** A tech explorer, always ready for new challenges.
 
 ### 🌐 **Future Goal:**
 
