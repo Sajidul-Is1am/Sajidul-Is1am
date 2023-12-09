@@ -7,7 +7,10 @@ Hi, I'm Sajidul Islam, a final-year CSE diploma student, weaving digital dreams 
 
 🌟 **Crafting Experiences:** Specializing in front-end magic, I turn ideas into intuitive interfaces.
 
+💻 **Tech Stack:** JavaScript, React.js, Tailwind CSS, DailSUI, and adept in CRUD operations using Node.js, Express, and MongoDB. Crafting seamless digital experiences is my passion. 🚀
+
 🔍 **Projects:**
+
 - FlexSync: Sculpting digital workouts.
 - EduTools: Igniting learning through innovation.
 - Cardify: Transforming brands into experiences.
@@ -18,17 +21,9 @@ Hi, I'm Sajidul Islam, a final-year CSE diploma student, weaving digital dreams 
 
 🌐 **Future Goal:** Striving to be a senior MERN Stack developer, overcoming the final year of my CSE diploma, and aiming to complete BSE for a comprehensive engineering journey.
 
+💼 **Skills:**
 
-**Sajidul-Is1am/Sajidul-Is1am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+[![My Skills](https://skillicons.dev/icons?i=js,css,tailwind,react,nodejs,express,mongodb,html,figma,firebase,)](https://skillicons.dev)
+</p>
